@@ -7,7 +7,7 @@ SAST:
 #   type: "WEB"
 #   URL: "https://demo.testfire.net/"
 SCA:
-  language: php-snyk-sast
+  language: php-snyk-sca
 Secret_Scan: true
 
 
